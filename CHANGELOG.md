@@ -1,5 +1,7 @@
 # Raycast Norwegian Public Transport Changelog
 
+This release has a bunch of minor changes and tweaks, mostly to make the extension ready for publishing to the Raycast Store 🚀
+
 - Made it possible to navigate back to the stop place search page after opening a stop place
 - Made info on mode of transport more readable, and made it possible to filter by this field
 - Made search bar placeholders more descriptive, and replaced the clock
